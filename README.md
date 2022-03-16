@@ -16,8 +16,8 @@
 > ```
 > Για να σιγουρευτείς ότι οι αλλαγές είναι σωστές:
 > ```
-> cat .gitignore # Linux
-> type .gitignore # Windows
+> cat .gitmodules # Linux
+> type .gitmodules # Windows
 > ```
 6. Συνδέεις το Netlify με το demo-branch του site.
 7. Κάνεις τις αλλαγές.
