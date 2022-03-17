@@ -12,7 +12,8 @@
 5. Συνδέεις όσα submodule σκοπεύεις να αλλάξεις με το δικό σου fork του site.
 > :bulb: Για να αλλάξεις που δείχνει ένα submodule του αποθετηρίου:
 > ```
-> git submodule set-url <path για το φάκελο του submodule> <url του submodule> -b <branch του αποθετηρίου του submodule (προαιρετικά)>
+> git submodule set-url <path για το φάκελο του submodule> <url του submodule>
+> git submodule set-branch -b <branch του αποθετηρίου του submodule> <path για το φάκελο του submodule> # Προαιρετικά
 > ```
 > Για να σιγουρευτείς ότι οι αλλαγές είναι σωστές:
 > ```
