@@ -20,4 +20,5 @@ events:
   - math-blaster
   - minecraft-end-user
   - island-of-kesmai
+  - maze-war
 ---
