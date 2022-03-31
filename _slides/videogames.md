@@ -15,4 +15,5 @@ slides:
   - minecraft-end-user
   - kinect
   - island-of-kesmai
+  - maze-war
 ---
